@@ -197,6 +197,7 @@ A curated list of AI agent frameworks, tools, and resources.
 
 ### Evaluation & Observability
 
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available application-QA CLI and MCP server for natural-language web and mobile tests; it evaluates apps rather than model or agent behavior.
 - [Langfuse](https://github.com/langfuse/langfuse) — Open-source LLM observability. Traces, evals, prompt management. Self-host or cloud. The go-to for agent debugging.
 - [Braintrust](https://braintrust.dev) — AI product evaluation platform. Logging, scoring, experiments. Good for systematic quality improvement.
 - [Arize Phoenix](https://github.com/Arize-AI/phoenix) — Open-source observability for LLM apps. Trace visualization, embedding analysis, evaluation.
