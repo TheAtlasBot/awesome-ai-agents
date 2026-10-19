@@ -355,6 +355,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Developer Tools & Utilities
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) — Recipes and examples for building with OpenAI APIs. Practical agent patterns.
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) — Examples and guides for building with Claude. Agent patterns, tool use, multi-turn conversations.
 - [Simon Willison's LLM](https://github.com/simonw/llm) — CLI tool for running prompts against LLMs from the terminal.
